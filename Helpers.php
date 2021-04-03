@@ -24,6 +24,7 @@ class Helpers
     }
 
     /** 
+     * Return the date in a human readable format
      * @param int $timestamp
      * @return string
      */
